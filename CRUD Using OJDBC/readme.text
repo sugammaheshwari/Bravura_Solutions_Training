@@ -1,1 +1,3 @@
 
+Performed CRUD using OJDBC to update , delete , modify  all the records from a table persons2 ( ID, LASTNAME,FIRSTNAME,AGE)
+Where ID was the primary key in the table
