@@ -1,0 +1,3 @@
+-Added login, Register and logout functionality with Database connectivity using OJDBC 8
+-Added sessions validation ( only successfully logged in user can open welcome , about us page )
+-Implemented session termination
